@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TEST_VS_Jenkins/1.0.0": {
+        "runtime": {
+          "TEST_VS_Jenkins.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TEST_VS_Jenkins/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\yshah\source\repos\TEST_VS_Jenkins\TEST_VS_Jenkins\bin\Debug\netcoreapp3.1\TEST_VS_Jenkins.exe
+C:\Users\yshah\source\repos\TEST_VS_Jenkins\TEST_VS_Jenkins\bin\Debug\netcoreapp3.1\TEST_VS_Jenkins.deps.json
+C:\Users\yshah\source\repos\TEST_VS_Jenkins\TEST_VS_Jenkins\bin\Debug\netcoreapp3.1\TEST_VS_Jenkins.runtimeconfig.json
+C:\Users\yshah\source\repos\TEST_VS_Jenkins\TEST_VS_Jenkins\bin\Debug\netcoreapp3.1\TEST_VS_Jenkins.runtimeconfig.dev.json
+C:\Users\yshah\source\repos\TEST_VS_Jenkins\TEST_VS_Jenkins\bin\Debug\netcoreapp3.1\TEST_VS_Jenkins.dll
+C:\Users\yshah\source\repos\TEST_VS_Jenkins\TEST_VS_Jenkins\bin\Debug\netcoreapp3.1\TEST_VS_Jenkins.pdb
+C:\Users\yshah\source\repos\TEST_VS_Jenkins\TEST_VS_Jenkins\obj\Debug\netcoreapp3.1\TEST_VS_Jenkins.csprojAssemblyReference.cache
+C:\Users\yshah\source\repos\TEST_VS_Jenkins\TEST_VS_Jenkins\obj\Debug\netcoreapp3.1\TEST_VS_Jenkins.AssemblyInfoInputs.cache
+C:\Users\yshah\source\repos\TEST_VS_Jenkins\TEST_VS_Jenkins\obj\Debug\netcoreapp3.1\TEST_VS_Jenkins.AssemblyInfo.cs
+C:\Users\yshah\source\repos\TEST_VS_Jenkins\TEST_VS_Jenkins\obj\Debug\netcoreapp3.1\TEST_VS_Jenkins.dll
+C:\Users\yshah\source\repos\TEST_VS_Jenkins\TEST_VS_Jenkins\obj\Debug\netcoreapp3.1\TEST_VS_Jenkins.pdb
